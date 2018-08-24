@@ -1,0 +1,58 @@
+
+
+
+
+h1{
+font-size: 170px;
+color: #c98a06;
+text-align: left;
+font-family: arial;
+}
+
+p {
+  font-size: 20px
+  color:#c98a06;
+
+}
+
+body{
+
+  background-color: #2f3033;
+}
+
+
+footer{
+
+  color: yellow;
+  position: absolute;
+    left: 1300px;
+    top: 150px;
+    font-size: 20px;
+    font-family: arial;
+}
+
+h2{
+font-size: 70px;
+  color:#c98a06;
+  position: absolute;
+    left: 1273px;
+    top: 7px;
+font-family: arial;
+}
+
+img{
+  position: absolute;
+    left: 1255px;
+    top: 330px;
+
+}
+
+h3{
+font-family: monospace;
+
+}
+
+a{
+
+  color: yellow;
+}
