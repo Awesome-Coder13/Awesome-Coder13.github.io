@@ -2,7 +2,7 @@
 body{
 
   font-family: arial;
-  background-color: #2f3033;
+  background-color: #2f3033;s
 }
 
 h1{
@@ -15,5 +15,10 @@ font-size: 70px;
 
 h2{
 color: #c98a06;
-  font-size: 24px;
+  font-size: 30px;
+}
+
+li{
+  color: #c98a06;
+  font-size: 25px;
 }
