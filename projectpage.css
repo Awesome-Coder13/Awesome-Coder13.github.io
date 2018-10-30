@@ -22,3 +22,11 @@ li{
   color: #c98a06;
   font-size: 25px;
 }
+
+footer{
+  color: yellow;
+  position: absolute;
+    left: 1300px;
+    top: 20px;
+    font-size: 20px;
+    font-family: arial;
