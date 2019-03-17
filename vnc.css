@@ -1,0 +1,49 @@
+
+<html>
+
+body{
+
+  font-family: arial;
+  background-color: #2f3033;s
+}
+
+h1{
+text-align: center;
+color: #c98a06;
+font-size: 71px;
+}
+
+
+
+h2{
+color: #c98a06;
+  font-size: 31px;
+}
+
+li{
+  color: #c98a06;
+  font-size: 25px;
+}
+
+
+footer{
+  color: yellow;
+  position: absolute;
+    left: 1300px;
+    top: 20px;
+    font-size: 20px;
+    font-family: arial;
+}
+
+a{
+  color: yellow;
+}
+
+
+
+
+
+
+
+
+</html>
